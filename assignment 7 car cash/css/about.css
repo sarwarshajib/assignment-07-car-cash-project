@@ -1,0 +1,29 @@
+img{
+    width: 627px;
+}
+h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 28px;
+    padding-bottom: 54px;
+}
+.one{
+      color: #a0a0a0;
+    font-size: 16px;
+}
+.two{
+      color: #a0a0a0;
+    font-size: 16px;
+}
+p.three {
+    margin-top: 79px;
+    color: #a0a0a0;
+    font-size: 16px;
+}
+
+#footer {
+    background: red;
+    color: #fff;
+    padding: 50px 0px 17px;
+    text-align: center;
+}

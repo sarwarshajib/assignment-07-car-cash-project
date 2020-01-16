@@ -1,0 +1,100 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+#contact-header{
+    
+}
+.menu {
+    padding-top: 41px;
+}
+.img-fluid-contact {
+    max-width: 83%;
+    height: auto;
+    margin-left: 100px;
+    width: 335px;
+  
+    display: block;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #a0a0a0;
+    text-transform: uppercase;
+    padding: 23px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: yellowgreen;
+}
+/*contact-content*/
+#contact-us{
+    background: #fd4c6d;
+}
+.contact-content{
+    
+margin-left: 132px;
+    
+width: 50%;
+}
+.contact-content h2{
+    
+margin-top: 30px;
+    
+font-weight: bold;
+    
+color: #fff;
+}
+.img-contact-content{
+    
+width: 528px;
+    
+margin-top: 16px;
+    
+margin-bottom: 24px;
+}
+.contact-content p{
+    
+color: #fff;
+    
+text-align: justify;
+}
+.img-inside{
+    
+margin-top: 77px;
+    
+width: 206px;
+    
+
+margin-left: -134px;
+    
+
+}
+/*form*/
+button.btn.btn-primary {
+    top: 50%;
+    
+    position: relative;
+    
+    background: transparent;
+    border: none;
+    font-size: 23px;
+}
+label {
+   
+    color: #fff;
+}
+form {
+    width: 300px;
+    margin-left: 131px;
+    margin-top: 26px;
+}
+#footer{
+    color: #fff;
+
+}
+.copyright {
+    padding: 47px;
+    padding-bottom: 3px;
+}
+
+
+
+
+
